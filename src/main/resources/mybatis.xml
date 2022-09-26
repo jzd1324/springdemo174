@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <settings>
+        <!--二级缓存-->
+        <setting name="cacheEnabled" value="true"/>
+        <setting name="logImpl" value="SLF4J"/>
+        <!-- 开启驼峰命名转换 -->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+    </settings>
+    <typeAliases>
+        <!--定义别名，可以使得我们的映射文件中所有的实现类都可以用别名来加载-->
+<!--        <typeAlias type="com.example.dto.BlogUser" alias="BlogUser" />-->
+    <package name="com.example.springmybatis.dto"/>
+    </typeAliases>
+<!--原来定义的配置比如数据源等操作，这边不需要定义了，因为mybatis都给了spring管理-->
+    <mappers>
+        <mapper resource="mapper/TUserMapper.xml"/>
+    </mappers>
+</configuration>

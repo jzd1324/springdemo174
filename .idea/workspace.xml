@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80420de3-492f-4e39-8035-d4ba396ecadc" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aop/aop01/AOPPointCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/aop/aop01/AOPPointCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/aop/aop02/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/aop/aop02/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/MVCMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/MVCMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/mvcTest/mvc02/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test01/Bean01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test01/Bean01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test01/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test01/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Clz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Clz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Stu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Stu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Tea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring02/BeanMain01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring02/BeanMain01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring02/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring02/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring02/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/BeanMain01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/BeanMain01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/spring/spring03/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean01.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean01.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean02.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean02.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean03.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean03.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean04.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean04.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean05.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean05.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/TUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/TUserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/test.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test01/Bean01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test01/Main01.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Clz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Stu.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/spring/spring01/test02/Tea.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/bean02.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/bean03.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/bean04.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/test.properties" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F4Em4oGZ0UeSRX5H6wdoLju0RC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/idea/salarymanagement&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7417e481331fad68a6c2f5122578d24c&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\springdemo174\src\main\java\com\example" />
+      <recent name="D:\idea\springdemo174\src\main\resources\mapper" />
+      <recent name="D:\idea\springdemo174\src\main\java\com\example\springmybatis" />
+      <recent name="D:\idea\springdemo174\src\main\resources" />
+      <recent name="D:\idea\springdemo174\src\main\java\com\example\spring03" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.mvc02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.com.example.jdbctemplate.Main01">
+    <configuration name="MVCMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mvc01.MVCMain" />
+      <module name="springdemo174" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mvc01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springmybatis.Main01" />
+      <module name="springdemo174" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springmybatis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.jdbctemplate.Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.jdbctemplate.Main01" />
+      <module name="springdemo174" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.jdbctemplate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.mvc02.MVCMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.mvc02.MVCMain" />
+      <module name="springdemo174" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.mvc02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.spring02.BeanMain01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.spring02.BeanMain01" />
+      <module name="springdemo174" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.spring02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.com.example.jdbctemplate.Main01" />
+        <item itemvalue="应用程序.Main01" />
+        <item itemvalue="应用程序.com.example.spring02.BeanMain01" />
+        <item itemvalue="应用程序.com.example.mvc02.MVCMain" />
+        <item itemvalue="应用程序.MVCMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="80420de3-492f-4e39-8035-d4ba396ecadc" name="变更" comment="" />
+      <created>1663743113872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663743113872</updated>
+      <workItem from="1663743115420" duration="12900000" />
+      <workItem from="1663897883140" duration="17869000" />
+      <workItem from="1664004893152" duration="1200000" />
+      <workItem from="1664006110437" duration="66000" />
+      <workItem from="1664006192247" duration="78000" />
+      <workItem from="1664006283433" duration="830000" />
+      <workItem from="1664007129702" duration="9600000" />
+      <workItem from="1664157985181" duration="1326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="clz01" class="com.example.spring.spring01.test02.Clz">
+        <property name="id" value="1"/>
+        <property name="clzName" value="大三一班"/>
+    </bean>
+
+    <bean id="t1" class="com.example.spring.spring01.test02.Tea" >
+        <property name="id" value="01"/>
+        <property name="teaName" value="jzd"/>
+    </bean>
+    <bean id="t2" class="com.example.spring.spring01.test02.Tea">
+        <property name="id" value="02"/>
+        <property name="teaName" value="ylh"/>
+    </bean>
+    <bean id="t3" class="com.example.spring.spring01.test02.Tea">
+        <property name="id" value="03"/>
+        <property name="teaName" value="asdasd"/>
+    </bean>
+
+    <bean id="stu01" class="com.example.spring.spring01.test02.Stu">
+        <property name="id" value="2"/>
+        <property name="stuName" value="jzd"/>
+        <property name="clz" ref="clz01"/>
+        <property name="Tealist">
+            <list>
+                <ref bean="t1"/>
+                <ref bean="t2"/>
+                <ref bean="t3"/>
+            </list>
+        </property>
+    </bean>
+
+</beans>
